@@ -1,0 +1,12 @@
+name: cw
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyter
+  - ipython
+  - nbconvert
+  - numpy
+  - rich
+  - pip:
+    - blacksquare
